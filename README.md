@@ -28,3 +28,6 @@ model.py:      Integrate LSKAN and GMHA into KALSTRA
 training.py:   Model training
 testing.py:    Prediction results of dataset
 ```
+
+## Contact Information
+Have any questions or issues related to the repository, please contact Dr. Binhua Tang (bh.tang@hhu.edu.cn) or Yiyao Chen (221620010005@hhu.edu.cn).
