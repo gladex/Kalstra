@@ -1,0 +1,6 @@
+keras==3.0.4
+numpy==1.26.4
+tensorflow==2.15.0
+pandas==2.2.3
+ipython==8.18.1
+scanpy==1.10.2
