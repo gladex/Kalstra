@@ -1,4 +1,5 @@
 # README #
+
 This README documents the necessary steps to set up the running environment for KALSTRA.
 
 # KALSTRA
@@ -27,7 +28,5 @@ model.py:      Integrate LSKAN and GMHA into KALSTRA
 training.py:   Model training
 testing.py:    Prediction results of dataset
 ```
-```ipynb
-KALSTRA.ipynb: Total structure and train-test process of KALSTRA
-```
+
 
