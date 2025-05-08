@@ -14,7 +14,7 @@ Please refer to requirements.txt for more details.
 pip install -r requirements.txt
 ```
 ## Model Training and Testing
-* After setting up the above files, execute the code in the `KALSTRA.ipynb` file directly or run py files sequentially in File **KALSTRA**.
+* After setting up the above files, execute Python files sequentially in File **KALSTRA**.
 
 ### Output Files
 * Training results are saved into **modelsave/epoch200.txt**
