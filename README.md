@@ -1,8 +1,8 @@
 # README #
 
-This README documents the necessary steps to set up the running environment for KALSTRA.
+This README documents the necessary steps to set up the running environment for Kalstra.
 
-# KALSTRA
+# Kalstra
 *A Novel Hybrid Architecture Integrating KAN and Sequential-Transformer for Robust Cell Type Annotation in Cross-Species Transcriptomics*
 
 ## Environment Configuration
@@ -14,7 +14,7 @@ Please refer to requirements.txt for more details.
 pip install -r requirements.txt
 ```
 ## Model Training and Testing
-* After setting up the above files, execute Python files sequentially in File **KALSTRA**.
+* After setting up the above files, execute Python files sequentially in File **Kalstra**.
 
 ### Output Files
 * Training results are saved into **modelsave/epoch200.txt**
@@ -28,5 +28,3 @@ model.py:      Integrate LSKAN and GMHA into KALSTRA
 training.py:   Model training
 testing.py:    Prediction results of dataset
 ```
-
-
